@@ -2,6 +2,7 @@
 ------------
 CryptoApp is a mobile application that allows users to view real-time cryptocurrency prices and details. The app utilizes modern Android development technologies and follows best practices in UI design and architecture to provide an optimal user experience.
 
+## Features 
 - **Animated Splash Screen**: When the app starts, a stylish animation is shown on the splash screen.
 - **Listing of Cryptocurrencies with Prices**: Users can view a list of cryptocurrencies with their current prices.
 - **Search Functionality to Filter Cryptocurrencies by Name**: Users can search for a specific cryptocurrency by its name.
