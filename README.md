@@ -1,4 +1,4 @@
-# CryptoApp
+# CryptoApp 📊📈📉
 ------------
 CryptoApp is a mobile application that allows users to view real-time cryptocurrency prices and details. The app utilizes modern Android development technologies and follows best practices in UI design and architecture to provide an optimal user experience.
 
@@ -32,3 +32,7 @@ CryptoApp is a mobile application that allows users to view real-time cryptocurr
 
 - [Material3](https://developer.android.com/jetpack/compose/material3): 
    - **Material3** components are used for UI design to ensure the app follows Google's Material Design guidelines, providing a consistent and visually appealing user interface.
+
+## Preview 
+
+![Image](https://github.com/user-attachments/assets/838912f3-a4b0-433c-b863-c3600e84ad19)
